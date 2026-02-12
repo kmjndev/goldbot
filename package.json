@@ -1,0 +1,21 @@
+{
+  "name": "gestionnaire-resultats",
+  "version": "1.0.0",
+  "description": "Application de gestion des résultats avec enregistrement des clics",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "gagnant",
+    "perdant",
+    "statistiques"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "cors": "^2.8.5"
+  }
+}
